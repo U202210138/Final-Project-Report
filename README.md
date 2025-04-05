@@ -29,10 +29,9 @@
 | :---------------------------------: | :--------: |
 | Mauricio Abraham Rivo Rojas Sánchez | U202211572 |
 | Giacomo Zoppi Rodriguez | U202210029 |
-| Omar Andrew Morales Montalvo | U202212383 |
+|  | U202212383 |
 |    Integrante 4    | u20221a322 |
 | Integrante 5 | U202211168 |
-| Integrante 6 | U202211168 |
 
 </div>
 
