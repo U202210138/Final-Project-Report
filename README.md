@@ -30,6 +30,7 @@
 | Mauricio Abraham Rivo Rojas Sánchez | U202211572 |
 | Giacomo Zoppi Rodriguez | U202210029 |
 |  | U202212383 |
+| Manuel Sebastian Peña Rivera| U202210138 |
 |    Integrante 4    | u20221a322 |
 | Integrante 5 | U202211168 |
 
@@ -146,6 +147,7 @@ MISION:
 | Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
 | ----------------------------------------------- | ----------------- | ---------------------- | --------------------------- |
 | Mauricio Abraham Rivo Rojas Sánchez	![Imagen del compañero](https://i.imgur.com/qQ6neUi.png) | U202211572            | Ingenieria de software | C++, C#, javascript y java            |
+ Manuel Sebastian Peña Rivera ![Imagen del compañero](https://i.imgur.com/MwmZhNx.jpeg) | u202210138        | Ingeniería de software | Cuento con experiencia en programación en C++, así como en desarrollo frontend con Vue, Angular y backend con tecnologías como JavaScript, Java, Spring Boot, C# y .NET. Me considero una persona responsable, flexible e innovadora, siempre abierta a escuchar activamente y mejorar en cada proyecto. Me esfuerzo por aprender constantemente y aportar soluciones efectivas, trabajando de manera colaborativa y con una actitud proactiva para lograr los objetivos del equipo. |
 
 
 ## 1.2. Solution Profile
@@ -274,6 +276,18 @@ Incluir Stakeholders internos y externos.
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
+
+**Competitive Analysis Landscape**
+
+| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | Xafiro| Binz360|
+|:---------------------------------------:|:----------:|:-----------:|:------------:|:-------------------------:|
+| **Overview**                          | Sweet Manager es una aplicación integral de gestión hotelera diseñada para simplificar y optimizar todas las operaciones relacionadas con la administración de un hotel. | Cloudbeds es una plataforma global que se enfoca en ofrecer integraciones completas y análisis avanzados para hoteles de todas las dimensiones. Su sistema permite una gestión eficiente, optimización de tarifas y conexión con diferentes canales de distribución a nivel mundial. | Solución de software hotelero que ahorra tiempo y optimiza la gestión de operaciones diarias. Ofrece características similares a Sweet Manager, como registro de clientes, reservas y gestión de inventarios. | Empresa especializada en la gestión de recursos hoteleros y control de clientes. Ofrece una solución competitiva en términos de gestión hotelera a un precio económico. |
+| **Ventaja Competitiva**               | Ofrece una solución integral para la gestión hotelera, desde seguimiento de ingresos y gastos hasta gestión de proveedores y clientes. Flexibilidad y accesibilidad, permitiendo a los administradores gestionar correctamente su negocio desde cualquier lugar y en cualquier momento. | Solución de software hotelero posicionada,cuenta con un fuerte enfoque en integraciones, analítica y logística de inventariado. | Enfoque específico en la eficiencia de las operaciones diarias del hotel. | Precio asequible para hoteles pequeños y medianos. |
+| **Mercado Objetivo**                  | 	Gerentes y propietarios de hoteles de todos los tamaños buscan una solución eficiente y completa para la gestión de su negocio | Hoteles de todas las dimensiones, especialmente con presencia global  | Hoteles de mediano a gran tamaño que buscan una solución completa y eficiente. | Hoteles independientes y pequeñas cadenas hoteleras. |
+| **Perfil de Marketing**               | Campañas dirigidas en redes sociales y plataformas de anuncios digitales para llegar a la audiencia objetivo. Colaboraciones con asociaciones hoteleras y participación en eventos de la industria para aumentar la visibilidad y credibilidad de la marca. | Marketing global, posicionada en el mercado, cuenta con alianzas estratégicas, y tiene su enfoque en la parte analítica | 	Colaboración con asociaciones hoteleras en redes sociales. Campañas en redes sociales dirigidas a gerentes hoteleros. | Enfoque en el ahorro de costos y eficiencia operativa. Uso de marketing de contenidos para educar sobre la importancia de la gestión hotelera. |
+| **Perfil del Producto**            | 	Sweet Manager ofrece una gama de características, incluyendo seguimiento de ingresos y gastos, control de inventarios, gestión de proveedores y clientes. | Gestión de propiedades, optimización de tarifas, integraciones | Ofrece una variedad de características para la gestión hotelera. Precios competitivos y opciones de personalización. |  Solución completa para la gestión hotelera con énfasis en la relación calidad-precio. Modelo de precios simple y transparente. |
+| **Precios**                           | Ofrecido como servicio de suscripción mensual o anual con planes escalables según el tamaño y las necesidades del hotel.| Precios variable según el tamaño del hotel | Ofrece un precio bastante accesible y competitivo en el mercado. | Ofrece un precio cómodo para las pequeñas y medianas empresas. |
+| **Canales de distribución (Web o móvil)**| La aplicación está disponible tanto en versiones web como móviles para una mayor accesibilidad | Plataforma web, soluciones móviles, integraciones a través de API |Principalmente ventas directas y demostraciones en línea. |Principalmente ventas directas y a través de socios de distribución |
 
 
 
