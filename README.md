@@ -291,6 +291,15 @@ Incluir Stakeholders internos y externos.
 
 
 
+ **Análisis SWOT** | Nosotros| Cloudbeds| Xafiro |Binz360 |
+-------------------|-------|----------|------------------| ---|
+ **Fortalezas**    | Solución eficaz, sencilla y rápida para la gestión hotelera. Interfaz intuitiva y fácil de usar.| Fuerte presencia global con una robusta infraestructura de análisis.| Solución especializada en operaciones diarias de hoteles. | Precio competitivo|                                                                                                                                                                      
+ **Debilidades**   | Posible competencia de grandes empresas en el mercado de gestión hotelera. |Complejidad en la implementación, enfoque en propiedades más grandes.| Menos reconocimiento de marca que competidores establecidos.| Menos funcionalidades avanzadas en comparación con competidores más establecidos. |                                                                                                                                                                    
+ **Oportunidades** | Crecimiento en la industria hotelera y demanda de soluciones eficientes de gestión.        |Expansión en mercados emergentes con mayor demanda de plataformas globales|Expansión internacional.| Expansión a nuevos mercados.  |                                                                                                                                                         
+ **Amenazas**      | Competencia directa de otras empresas de software de gestión hotelera. |Nuevos entrantes con mejores características específicas y precios más bajos.|Competencia directa de otros proveedores de software.|Posible competencia de proveedores de software con precios aún más bajos.|
+
+
+
 
 
 
